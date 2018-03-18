@@ -1,0 +1,10 @@
+{
+  "name": "nomadcoin",
+  "version": "1.0.0",
+  "description": "Nomadcoin, the first coin made in NodeJS",
+  "main": "src/server.js",
+  "repository": "https://github.com/mrbobsa/nomadcoin",
+  "author": "Min Sung Kim <ds3dxf@hanmail.net>",
+  "license": "MIT",
+  "private": false
+}

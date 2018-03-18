@@ -1,2 +1,2 @@
 # nomadcoin
-nomadcoin, the first coin made in NodeJS
+Nomadcoin, the first coin made in NodeJS
